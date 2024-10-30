@@ -1,0 +1,49 @@
+ul.ac_results { /* for jQuery: hide list on statup */
+	display: none;
+}
+.ac_results {
+	position: absolute;
+	width: 350px;
+	background-color: #fff;
+	border: 1px solid #888;
+	border-bottom: 0px;
+	margin: 0px;
+	padding: 0px;
+	z-index: 100;
+}
+.ac_results ul { /* for scriptaculous: set margin and padding of list inside the container to zero */
+	margin: 0px;
+	padding: 0px;
+	max-height: 100% !important; /* overwrite for jQuery autocomplete */
+}
+.ac_results li {
+	list-style-type: none;
+	display: block;
+	margin: 0;
+	padding: 2px;
+	height: auto;
+	cursor: pointer;
+	text-align: left;
+	border-bottom: 1px solid #888;
+}
+.ac_results li a {
+	text-decoration: inherit;
+	color: inherit;
+}
+.ac_results li * {
+	margin: 0;
+}
+.ac_over,
+.ac_results li.selected { /* for scriptaculous: uses class selected */
+	color: #fff;
+	background-color: #f93;
+}
+.ac_results li span.title {
+	font-size: 1.2em;
+	color: #0B4096;
+}
+.ac_match {
+	color: #0b4096;
+	border-bottom: 2px solid #0b4096;
+	font-weight: bold;
+}

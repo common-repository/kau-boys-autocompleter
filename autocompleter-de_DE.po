@@ -1,0 +1,205 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: kau-boys-autocompleter\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/kau-boys-"
+"autocompleter\n"
+"POT-Creation-Date: 2023-04-02T14:57:04+00:00\n"
+"PO-Revision-Date: 2023-04-02 16:57+0200\n"
+"Last-Translator: Bernhard Kau\n"
+"Language-Team: Bernhard Kau <max@mustermann.de>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. Plugin Name of the plugin
+msgid "Kau-Boy's AutoCompleter"
+msgstr "Kau-Boy's AutoCompleter"
+
+#. Plugin URI of the plugin
+msgid "http://kau-boys.de/24/wordpress/kau-boys-autocompleter-plugin"
+msgstr "http://kau-boys.de/24/wordpress/kau-boys-autocompleter-plugin"
+
+#. Description of the plugin
+msgid ""
+"Integrates a google suggest like search to your blog. It Prototype "
+"(Scriptaculous) or the jQuery to search for text within the title and/or the "
+"content."
+msgstr ""
+"Integriert eine Google Suggest ähnliche Suche in Ihren Blog. Es Prototype "
+"(Scriptaculous) oder die jQuery für die Suche nach Text innerhalb des Titels "
+"und / oder den Inhalt."
+
+#. Author of the plugin
+msgid "Bernhard Kau"
+msgstr "Bernhard Kau"
+
+#. Author URI of the plugin
+msgid "http://kau-boys.de"
+msgstr "http://kau-boys.de"
+
+#: autocompleter.php:113
+msgid "Here you can customize the plugin for your needs."
+msgstr "Hier können Sie das Plugin an Ihre eigenen Bedürfnisse anpassen."
+
+#: autocompleter.php:117
+msgid "JavaScript framework"
+msgstr "JavaScript Framework"
+
+#: autocompleter.php:122
+msgid "Here you can choose the JavaScript framework you prefer."
+msgstr "Hier können Sie Ihr bevorzugtes JavaScript Framework auswählen."
+
+#: autocompleter.php:125
+msgid "Selectortype"
+msgstr "Selektortype"
+
+#: autocompleter.php:130
+msgid ""
+"Here you can set if you select the input by the id or name attribute "
+"(default = id)."
+msgstr ""
+"Hier können Sie ob sie das Suchfeld per id oder name Attribut auswählen "
+"(Standard = id)"
+
+#: autocompleter.php:133
+msgid "Search field attribute value"
+msgstr "Suchfeld Attributwert"
+
+#: autocompleter.php:135
+msgid ""
+"Here you can set the value of the id or name attribute from the search input "
+"used in your template (default = s)."
+msgstr ""
+"Hier können Sie den Wert des id oder name Attributs eingeben, dass Sie in "
+"ihrem Tempalte verwenden (Standard = s)"
+
+#: autocompleter.php:138
+msgid "Number of results"
+msgstr "Anzahl der Ergebnisse"
+
+#: autocompleter.php:140
+msgid "Here you can set the number of posts that will be shown."
+msgstr ""
+"Hier können Sie einstellen, wie viele Ergebnisse maximal angezeigt werden "
+"sollen."
+
+#: autocompleter.php:143
+msgid "Searchfields"
+msgstr "Suchfelder"
+
+#: autocompleter.php:145 autocompleter.php:154
+msgid "Title only"
+msgstr "Nur Titel"
+
+#: autocompleter.php:146
+msgid "Content only"
+msgstr "Nur Inhalt"
+
+#: autocompleter.php:147 autocompleter.php:155
+msgid "Title and Content"
+msgstr "Titel und Inhalt"
+
+#: autocompleter.php:149
+msgid "Here you can set where to search for the searchterm."
+msgstr ""
+"Hier können Sie einstellen, wo nach dem Suchbegriff gesucht werden soll."
+
+#: autocompleter.php:152
+msgid "Resultfields"
+msgstr "Ergebnisfelder"
+
+#: autocompleter.php:157
+msgid "Here you can set which fields to show in the results list."
+msgstr ""
+"Hier können Sie einstellen, welche Felder im Suchergebnis angezeigt werden "
+"sollen."
+
+#: autocompleter.php:160
+msgid "Title length"
+msgstr "Titellänge"
+
+#: autocompleter.php:162
+msgid ""
+"Here you can set the maximum length of the title in the results (default = "
+"50)."
+msgstr ""
+"Hier können Sie die maximale Länge des Titel in den Ergebnissen festlegen "
+"(Standard = 50)."
+
+#: autocompleter.php:165
+msgid "Content length"
+msgstr "Inhaltslänge"
+
+#: autocompleter.php:167
+msgid ""
+"Here you can set the maximum length of the content in the results (default = "
+"120)."
+msgstr ""
+"Hier können Sie die maximale Länge des Inhalts in den Ergebnissen festlegen "
+"(Standard = 120)."
+
+#: autocompleter.php:170
+msgid "Multibyte encoding"
+msgstr "Multibyte Kodierung"
+
+#: autocompleter.php:172
+msgid ""
+"Here you can set the encoding for the multibyte functions (default = UTF-8)."
+msgstr ""
+"Hier können Sie die Kodierung  für die Multibyte Funktionen einstellen "
+"(Standard = UTF-8)."
+
+#: autocompleter.php:175
+msgid "Path to custom css"
+msgstr "Pfad zu eigener CSS-Datei"
+
+#: autocompleter.php:177
+msgid "Here you can set the path to a custom css file."
+msgstr "Hier können Sie den Pfad zu einer eigenen CSS-Datei einstellen."
+
+#: autocompleter.php:178
+msgid ""
+"Just use the <a href=\"%1$sautocompleter.css\">autocompleter.css</a> from "
+"the plugin folder as an example to create your own stylessheets. You should "
+"use an absolute path (e.g. http://example.com/mystyles.css)."
+msgstr ""
+"Nehmen Sie als Vorlage einfach die <a href=\"%1$sautocompleter."
+"css\">autocompleter.css</a> aus dem Plugin-Verzeichnis. Sie sollten eine "
+"absolute Pfadangabe verwenden (z.B. http://beispiel.de/meinestyles.css)."
+
+#: autocompleter.php:204
+msgid ""
+"Kau-Boy's AutoCompleter <b>is deprecated and will be removed</b> from the "
+"plugin directory on <b>June 19, 2023</b>, 14 years after its first release. "
+"Thanks to everyone who used the plugin, gave constructive feedback, rated it "
+"and send me messages on how it helped them with their sites. This was <a "
+"href=\"https://kau-boys.de/19/allgemein/mein-erster-blog\">my very first "
+"WordPress plugin, and it started my journey into the WordPress community</"
+"a>. If you see this message, you are one of few, who still have this plugin "
+"installed. But now feel free to remove it from your site. If you still want "
+"an auto-completion/suggestion, try out <a href=\"https://wordpress.org/"
+"plugins/wp-search-suggest/\">WP Search Suggest</a>, which is still actively "
+"maintained. You can find my other plugins <a href=\"https://profiles."
+"wordpress.org/kau-boy/#content-plugins\">on my WordPress profile page</a>."
+msgstr ""
+"Kau-Boy's AutoCompleter <b>ist veraltet und wird</b> am <b>19. Juni 2023</"
+"b>, 14 Jahre nach seiner ersten Veröffentlichung, <b>aus dem Plugin-"
+"Verzeichnis entfernt</b>. Danke an alle, die das Plugin verwendet, "
+"konstruktives Feedback gegeben, es bewertet und mir Nachrichten geschickt "
+"haben, wie es ihnen bei ihren Websites geholfen hat. Dies war <a "
+"href=\"https://kau-boys.de/19/allgemein/mein-erster-blog\">mein allererstes "
+"WordPress-Plugin, und damit begann meine Reise in die WordPress-Community</"
+"a>. Wenn du diese Nachricht siehst, bist du einer der wenigen, die dieses "
+"Plugin noch installiert haben. Aber jetzt kannst du es gerne von deiner "
+"Website entfernen. Wenn du immer noch eine Autovervollständigung/Vorschläge "
+"wünschst, probiere <a href=\"https://wordpress.org/plugins/wp-search-suggest/"
+"\">WP Search Suggest</a> aus, das immer noch aktiv gepflegt wird. Du kannst "
+"meine anderen Plugins <a href=\"https://profiles.wordpress.org/kau-boy/"
+"#content-plugins\">auf meiner WordPress-Profilseite</a> finden."

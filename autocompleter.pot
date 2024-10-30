@@ -1,0 +1,141 @@
+# Copyright (C) 2023 Bernhard Kau
+# This file is distributed under the same license as the Kau-Boy's AutoCompleter plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kau-Boy's AutoCompleter 3.1.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/kau-boys-autocompleter\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-04-02T14:57:04+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: autocompleter\n"
+
+#. Plugin Name of the plugin
+msgid "Kau-Boy's AutoCompleter"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://kau-boys.de/24/wordpress/kau-boys-autocompleter-plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid "Integrates a google suggest like search to your blog. It Prototype (Scriptaculous) or the jQuery to search for text within the title and/or the content."
+msgstr ""
+
+#. Author of the plugin
+msgid "Bernhard Kau"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://kau-boys.de"
+msgstr ""
+
+#: autocompleter.php:113
+msgid "Here you can customize the plugin for your needs."
+msgstr ""
+
+#: autocompleter.php:117
+msgid "JavaScript framework"
+msgstr ""
+
+#: autocompleter.php:122
+msgid "Here you can choose the JavaScript framework you prefer."
+msgstr ""
+
+#: autocompleter.php:125
+msgid "Selectortype"
+msgstr ""
+
+#: autocompleter.php:130
+msgid "Here you can set if you select the input by the id or name attribute (default = id)."
+msgstr ""
+
+#: autocompleter.php:133
+msgid "Search field attribute value"
+msgstr ""
+
+#: autocompleter.php:135
+msgid "Here you can set the value of the id or name attribute from the search input used in your template (default = s)."
+msgstr ""
+
+#: autocompleter.php:138
+msgid "Number of results"
+msgstr ""
+
+#: autocompleter.php:140
+msgid "Here you can set the number of posts that will be shown."
+msgstr ""
+
+#: autocompleter.php:143
+msgid "Searchfields"
+msgstr ""
+
+#: autocompleter.php:145
+#: autocompleter.php:154
+msgid "Title only"
+msgstr ""
+
+#: autocompleter.php:146
+msgid "Content only"
+msgstr ""
+
+#: autocompleter.php:147
+#: autocompleter.php:155
+msgid "Title and Content"
+msgstr ""
+
+#: autocompleter.php:149
+msgid "Here you can set where to search for the searchterm."
+msgstr ""
+
+#: autocompleter.php:152
+msgid "Resultfields"
+msgstr ""
+
+#: autocompleter.php:157
+msgid "Here you can set which fields to show in the results list."
+msgstr ""
+
+#: autocompleter.php:160
+msgid "Title length"
+msgstr ""
+
+#: autocompleter.php:162
+msgid "Here you can set the maximum length of the title in the results (default = 50)."
+msgstr ""
+
+#: autocompleter.php:165
+msgid "Content length"
+msgstr ""
+
+#: autocompleter.php:167
+msgid "Here you can set the maximum length of the content in the results (default = 120)."
+msgstr ""
+
+#: autocompleter.php:170
+msgid "Multibyte encoding"
+msgstr ""
+
+#: autocompleter.php:172
+msgid "Here you can set the encoding for the multibyte functions (default = UTF-8)."
+msgstr ""
+
+#: autocompleter.php:175
+msgid "Path to custom css"
+msgstr ""
+
+#: autocompleter.php:177
+msgid "Here you can set the path to a custom css file."
+msgstr ""
+
+#: autocompleter.php:178
+msgid "Just use the <a href=\"%1$sautocompleter.css\">autocompleter.css</a> from the plugin folder as an example to create your own stylessheets. You should use an absolute path (e.g. http://example.com/mystyles.css)."
+msgstr ""
+
+#: autocompleter.php:204
+msgid "Kau-Boy's AutoCompleter <b>is deprecated and will be removed</b> from the plugin directory on <b>June 19, 2023</b>, 14 years after its first release. Thanks to everyone who used the plugin, gave constructive feedback, rated it and send me messages on how it helped them with their sites. This was <a href=\"https://kau-boys.de/19/allgemein/mein-erster-blog\">my very first WordPress plugin, and it started my journey into the WordPress community</a>. If you see this message, you are one of few, who still have this plugin installed. But now feel free to remove it from your site. If you still want an auto-completion/suggestion, try out <a href=\"https://wordpress.org/plugins/wp-search-suggest/\">WP Search Suggest</a>, which is still actively maintained. You can find my other plugins <a href=\"https://profiles.wordpress.org/kau-boy/#content-plugins\">on my WordPress profile page</a>."
+msgstr ""
